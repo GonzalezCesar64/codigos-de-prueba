@@ -1,6 +1,5 @@
 //lo escribo yo cesar
-
-
+//sy cesar
 #include <SD.h>
 #include <SPI.h>
 #include <Wire.h>
